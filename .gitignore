@@ -2,6 +2,4 @@ __pycache__
 .env
 .history
 .hypothesis/
-build/
 reports/
-prb-math-main
